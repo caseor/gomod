@@ -1,1 +1,1 @@
-# gomod
+# go-module
