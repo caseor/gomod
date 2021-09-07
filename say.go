@@ -8,6 +8,6 @@ func SayHiV100(name string) string {
 }
 
 // v1.0.1
-// func SayHiV101(name string) string {
-//    return fmt.Sprintf("Hi, v1.0.1 %s", name)
-// }
+func SayHiV101(name string) string {
+   return fmt.Sprintf("Hi, v1.0.1 %s", name)
+}
